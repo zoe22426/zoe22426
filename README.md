@@ -4,5 +4,5 @@
 
 * Pronouns: She/Her 🏳️‍⚧️
 * Electronic Music Artist 💿
-* Studying for Red Hat RHCSA Certification 📕
+* Studying for Red Hat RHCSA 📕
 
